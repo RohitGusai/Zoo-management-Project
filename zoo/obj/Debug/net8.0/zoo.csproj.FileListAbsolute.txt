@@ -1,0 +1,14 @@
+D:\Rohit C# Work\c#project\zoo\bin\Debug\net8.0\zoo.exe
+D:\Rohit C# Work\c#project\zoo\bin\Debug\net8.0\zoo.deps.json
+D:\Rohit C# Work\c#project\zoo\bin\Debug\net8.0\zoo.runtimeconfig.json
+D:\Rohit C# Work\c#project\zoo\bin\Debug\net8.0\zoo.dll
+D:\Rohit C# Work\c#project\zoo\bin\Debug\net8.0\zoo.pdb
+D:\Rohit C# Work\c#project\zoo\obj\Debug\net8.0\zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohit C# Work\c#project\zoo\obj\Debug\net8.0\zoo.AssemblyInfoInputs.cache
+D:\Rohit C# Work\c#project\zoo\obj\Debug\net8.0\zoo.AssemblyInfo.cs
+D:\Rohit C# Work\c#project\zoo\obj\Debug\net8.0\zoo.csproj.CoreCompileInputs.cache
+D:\Rohit C# Work\c#project\zoo\obj\Debug\net8.0\zoo.dll
+D:\Rohit C# Work\c#project\zoo\obj\Debug\net8.0\refint\zoo.dll
+D:\Rohit C# Work\c#project\zoo\obj\Debug\net8.0\zoo.pdb
+D:\Rohit C# Work\c#project\zoo\obj\Debug\net8.0\zoo.genruntimeconfig.cache
+D:\Rohit C# Work\c#project\zoo\obj\Debug\net8.0\ref\zoo.dll
